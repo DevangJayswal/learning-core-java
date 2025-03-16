@@ -3,6 +3,7 @@ package com.example.leetcode.array;
 import java.util.HashSet;
 import java.util.Set;
 
+
 public class SmallestPositiveNumber {
     public static void main(String[] args) {
         int[] A = new int[]{1, 3, 6, 4, 1, 2}; // 5
